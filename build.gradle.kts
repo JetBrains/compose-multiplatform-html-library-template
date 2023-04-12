@@ -23,7 +23,7 @@ kotlin {
             resources.srcDir("src/main/resources")
 
             dependencies {
-                implementation(compose.web.core)
+                implementation(compose.html.core)
                 implementation(compose.runtime)
             }
         }
