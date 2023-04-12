@@ -9,3 +9,5 @@ pluginManagement {
         id("org.jetbrains.compose").version(extra["compose.version"] as String)
     }
 }
+
+rootProject.name = "compose-multiplatform-html-library-template"
