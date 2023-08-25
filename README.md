@@ -5,4 +5,4 @@
 This template uses the HTML Compose library.
 
 - `./gradlew jsBrowserRun` - run application in a browser
-- `./gradlew jsBrowserProductionWebpack` - produce the output in `build/distributions`
+- `./gradlew jsBrowserProductionWebpack` - produce the output in `build/dist`
